@@ -1,4 +1,5 @@
 package com.dcm.spring.druginfo.model;
+
 import lombok.Data;
 import java.util.List;
 
@@ -39,3 +40,4 @@ public class DrugResponseDto {
         private String bizrno;
     }
 }
+
