@@ -1,4 +1,4 @@
-package com.dcm.spring.druginfo.Service;
+package com.dcm.spring.druginfo.service;
 
 import reactor.core.publisher.Mono;
 
